@@ -5,4 +5,4 @@
   - [「プログラミング言語の基礎概念」演習システムのための Syntax Highlighting](https://blog.ymyzk.com/2016/05/vim-copl/)
 
 - what writen in this repo?
-  - maybe only exercise
+  - only anser of exercise
